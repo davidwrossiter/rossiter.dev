@@ -59,7 +59,11 @@ function App() {
       <div className="mt-6">
         <p className="font-bold text-base">chapter one</p>
         <p className="pt-1">
-          <a href="#" className="underline text-blue-700" target="_blank">
+          <a
+            href="https://chapteroneai.com/"
+            className="underline text-blue-700"
+            target="_blank"
+          >
             live project
           </a>{" "}
           /{" "}
