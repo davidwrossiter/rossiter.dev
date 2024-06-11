@@ -67,7 +67,11 @@ function App() {
             live project
           </a>{" "}
           /{" "}
-          <a href="#" className="underline text-blue-700" target="_blank">
+          <a
+            href="https://github.com/codeyarduk/chapter-one-client"
+            className="underline text-blue-700"
+            target="_blank"
+          >
             github for client
           </a>{" "}
           /{" "}
