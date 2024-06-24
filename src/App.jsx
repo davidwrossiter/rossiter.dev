@@ -43,7 +43,11 @@ function App() {
           auth messiah
         </p>
         <p className="pt-1">
-          <a href="#" className="underline text-blue-700" target="_blank">
+          <a
+            href="https://github.com/codeyarduk/auth-messiah"
+            className="underline text-blue-700"
+            target="_blank"
+          >
             github repo
           </a>{" "}
         </p>
