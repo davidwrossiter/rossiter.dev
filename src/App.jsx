@@ -34,7 +34,7 @@ function App() {
       <p className="mt-6 font-[400] text-xl">projects</p>
 
       <div className="mt-6">
-        <p className="font-bold text-base">rabbitcode</p>
+        <p className="font-bold text-base">wilson</p>
         <p className="max-w-[500px] mt-1 font-[400]">coming soon...</p>
       </div>
 
