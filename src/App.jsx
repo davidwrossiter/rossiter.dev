@@ -34,7 +34,16 @@ function App() {
       <p className="mt-6 font-[400] text-xl">projects</p>
 
       <div className="mt-6">
-        <p className="font-bold text-base">wilson</p>
+        <div className="flex flex-row items-center">
+          <p className="font-bold text-base">wilson</p>
+          <a
+            href="https://wilson.codeyard.co.uk"
+            className="underline text-blue-700 ml-2 text-sm"
+            target="_blank"
+          >
+            join the waitlist
+          </a>
+        </div>
         <p className="max-w-[500px] mt-1 font-[400]">coming soon...</p>
       </div>
 
