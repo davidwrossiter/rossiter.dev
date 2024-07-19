@@ -86,10 +86,6 @@ function App() {
             target="_blank"
           >
             github for client
-          </a>{" "}
-          /{" "}
-          <a href="#" className="underline text-blue-700" target="_blank">
-            github for server
           </a>
         </p>
         <p className="max-w-[500px] mt-3 font-[350]">
