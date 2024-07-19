@@ -11,7 +11,7 @@ function App() {
           className="underline text-blue-700"
           target="_blank"
         >
-          twitter
+          𝕏
         </a>{" "}
         /{" "}
         <a
