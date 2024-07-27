@@ -37,7 +37,7 @@ function App() {
         <div className="flex flex-row items-center">
           <p className="font-bold text-base">wilson</p>
           <a
-            href="https://wilson.codeyard.co.uk"
+            href="https://heywilson.dev"
             className="underline text-blue-700 ml-2 text-sm"
             target="_blank"
           >
