@@ -5,7 +5,7 @@ function Home() {
     <div className="font-redditMono p-8 text-sm font-semibold">
       <h1 className="text-3xl">hi, i'm david 👋</h1>
       <p className="pt-3 font-medium">
-        i'm currently building an awesome company with awesome people.
+        i love running and programming.
       </p>
       <p className="pt-1">
         <a
