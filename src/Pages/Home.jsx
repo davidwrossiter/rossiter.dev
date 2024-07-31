@@ -3,15 +3,15 @@ import React from "react";
 function Home() {
   return (
     <div className="font-redditMono p-8 text-sm font-semibold">
-      <h1 className="text-3xl">hi, i'm david 👋</h1>
-      <p className="pt-3 font-medium">i love running and programming.</p>
+      <h1 className="text-3xl">Hi, I'm David 👋</h1>
+      <p className="pt-3 font-medium">I love running and programming.</p>
       <p className="pt-1">
         <a
           href="https://x.com/davidwrossiter"
           className="underline text-blue-700"
           target="_blank"
         >
-          twitter
+          Twitter
         </a>{" "}
         /{" "}
         <a
@@ -19,7 +19,7 @@ function Home() {
           className="underline text-blue-700"
           target="_blank"
         >
-          github
+          GitHub
         </a>{" "}
         /{" "}
         <a
@@ -27,7 +27,7 @@ function Home() {
           className="underline text-blue-700"
           target="_blank"
         >
-          linkedin
+          LinkedIn
         </a>
       </p>
       {/* Projects section */}
