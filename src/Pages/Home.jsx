@@ -99,7 +99,6 @@ function Home() {
           <br />
 
 
-          <p>By David, Co-Founder, and Developer at Mordecai</p>
         </p>
       </div>
     </div>
