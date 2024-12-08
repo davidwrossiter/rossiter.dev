@@ -36,8 +36,9 @@ function Home() {
       <div className="mt-3">
 
         <p className="max-w-[500px] my-1 pb-2 font-[400]">
-          <a href="https://mordecaiapp.com" target="_blank" className="text-xl underline font-medium">Mordecai</a>
-          <br />
+          <a>
+            <br />
+            <p href="https://mordecaiapp.com" target="_blank" className="text-xl underline font-medium">Mordecai</p><br /></a>
           <p>When we started developing Mordecai a few months ago, we knew that there was one problem we were intent on being a part of solving: programming with LLMs. We had used products such as GitHub Copilot, Codeium, and Cursor and weren't totally happy with their design philosophy. These apps take the approach of LLM integrations directly inside of your text editor, and none of us liked this. I use Neovim, and one of my co-founders uses Helix; neither of us were prepared to switch to a different way of editing code just so we could get an LLM integration, so we decided to build Mordecai, a browser-based programming tool — not just another VS Code fork.
           </p>
 
